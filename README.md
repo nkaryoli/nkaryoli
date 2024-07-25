@@ -7,5 +7,5 @@
 
 ## My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkaryoli&layout=compact&theme=vision-friendly-light)](https://github.com/nkaryoli/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff)](https://git.io/streak-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkaryoli&show_icons=true&locale=en" alt="nkaryoli" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff)](https://git.io/streak-stats)
