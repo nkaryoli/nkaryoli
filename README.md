@@ -14,11 +14,11 @@ I’m deeply passionate about developing new projects and solving problems throu
 
 Here are some of the technologies and tools I work with:
 
-- **Front-end**: HTML, CSS, JavaScript, React
-- **Back-end**: Node.js, Express
+- **Front-end**: HTML, CSS, JavaScript, Typescript, React
+- **Back-end**: Node.js, Express, Nest.js
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, Linux
-- **Languages**: JavaScript, C, Python
+- **Languages**: JavaScript, TypeScript, C
 - **Design**: Figma, Adobe XD
 
 ---
@@ -41,8 +41,7 @@ Here are some of the technologies and tools I work with:
 I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me:
 
 - [GitHub](https://github.com/nkaryoli)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) <!-- Add your LinkedIn profile link -->
-- [Email](mailto:youremail@example.com) <!-- Add your email -->
+- [Email](mailto:karyoli@gmail.com)
 
 ---
 
