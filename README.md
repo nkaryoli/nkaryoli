@@ -10,18 +10,6 @@ I’m deeply passionate about developing new projects and solving problems throu
 
 ---
 
-## My Stack
-
-Here are some of the technologies and tools I work with:
-
-- **Front-end**: HTML, CSS, JavaScript, Typescript, React
-- **Back-end**: Node.js, Express, Nest.js
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, Linux
-- **Languages**: JavaScript, TypeScript, C
-- **Design**: Figma, Adobe XD
-
----
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/binary/knieves-?1337Badge=off&UM6P=off" alt="42 Stats" height="250"/>
@@ -38,6 +26,18 @@ Here are some of the technologies and tools I work with:
 </p>
 
 
+## My Stack
+
+Here are some of the technologies and tools I work with:
+
+- **Front-end**: HTML, CSS, JavaScript, Typescript, React
+- **Back-end**: Node.js, Express, Nest.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, Linux
+- **Languages**: JavaScript, TypeScript, C
+- **Design**: Figma, Adobe XD
+
+---
 ---
 
 ## Let’s Connect!
