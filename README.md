@@ -32,9 +32,9 @@ Here are some of the technologies and tools I work with:
 </p>
 
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff" alt="nkaryoli" height="140"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff" alt="nkaryoli" height="145"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=nkaryoli&show_icons=true&locale=en" alt="nkaryoli" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nkaryoli&show_icons=true&locale=en" alt="nkaryoli" height="145"/>
 </p>
 
 
