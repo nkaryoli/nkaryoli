@@ -23,22 +23,28 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## My Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkaryoli&show_icons=true&locale=en&layout=compact" alt="nkaryoli" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nkaryoli&show_icons=true&locale=en" alt="nkaryoli" />
-</p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff" alt="nkaryoli" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/knieves-?1337Badge=off&UM6P=off" alt="42 Stats"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkaryoli&show_icons=true&locale=en&layout=compact" alt="nkaryoli" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nkaryoli&show_icons=true&locale=en" alt="nkaryoli" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff" alt="nkaryoli" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/binary/knieves-?1337Badge=off&UM6P=off" alt="42 Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
