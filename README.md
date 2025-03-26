@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
     <img src="https://badge.mediaplus.ma/binary/knieves-?1337Badge=off&UM6P=off" alt="42 Stats" height="250"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkaryoli&show_icons=true&locale=en&layout=compact" alt="nkaryoli" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkaryoli&show_icons=true&locale=en&layout=compact" alt="nkaryoli" witdh="auto"/>
 
 </p>
 
