@@ -38,27 +38,27 @@ Here are some of the technologies and tools I work with:
 ![React](https://img.shields.io/badge/React-61DAFB?style=popout&logo=react&logoColor=black)
 
 ### Back-end:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) &nbsp; 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=popout&logo=node.js&logoColor=white) &nbsp; 
+![Express](https://img.shields.io/badge/Express-000000?style=popout&logo=express&logoColor=white) &nbsp; 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=popout&logo=nestjs&logoColor=white)
 
 ### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=popoute&logo=mysql&logoColor=white) &nbsp; 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=popout&logo=mongodb&logoColor=white)
 
 ### Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp; 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=popout&logo=git&logoColor=white) &nbsp; 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=popout&logo=docker&logoColor=white) &nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=popout&logo=linux&logoColor=black)
 
 ### Design:
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26A1?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=popout&logo=figma&logoColor=white) &nbsp;
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26A1?style=popout&logo=adobe-xd&logoColor=white)
 
 ### Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=popout&logo=javascript&logoColor=black) &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=popout&logo=typescript&logoColor=white) &nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=popout&logo=c&logoColor=black)
 
 ---
 ---
