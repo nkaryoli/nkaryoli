@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 ---
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/knieves-?1337Badge=off&UM6P=off" alt="42 Stats" height="150"/>
+    <img src="https://badge.mediaplus.ma/binary/knieves-?1337Badge=off&UM6P=off" alt="42 Stats" height="250"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <img src="http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff" alt="nkaryoli" height="150"/>
