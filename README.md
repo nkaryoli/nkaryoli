@@ -23,16 +23,26 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-<p>
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/knieves-?1337Badge=off&UM6P=off" alt="42 Stats"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkaryoli&show_icons=true&locale=en&layout=compact" alt="nkaryoli" />
-</p>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff" alt="nkaryoli" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nkaryoli&show_icons=true&locale=en" alt="nkaryoli" />
+  <div style="display: inline-block;">
+    <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/binary/knieves-?1337Badge=off&UM6P=off" alt="42 Stats" height="150"/>
+    </a>
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkaryoli&show_icons=true&locale=en&layout=compact" alt="nkaryoli" height="150"/>
+  </div>
 </p>
+
+<p align="center">
+  <div style="display: inline-block;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff" alt="nkaryoli" height="150"/>
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nkaryoli&show_icons=true&locale=en" alt="nkaryoli" height="150"/>
+  </div>
+</p>
+
 
 ---
 
