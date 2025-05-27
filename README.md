@@ -48,6 +48,7 @@ Here are some of the technologies and tools I work with:
 
 ### Tools: &nbsp; 
 ![Git](https://img.shields.io/badge/Git-F05032?style=popout&logo=git&logoColor=white) &nbsp; 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=popout&logo=github&logoColor=white) &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=popout&logo=docker&logoColor=white) &nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=popout&logo=linux&logoColor=black)
 
