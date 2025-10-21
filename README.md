@@ -9,6 +9,10 @@ I’m deeply passionate about developing new projects and solving problems throu
 - ✨ I’m looking to collaborate on projects that challenge me to grow and push me to new heights.
 
 ---
+<p align="center">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkaryoli&show_icons=true&locale=en&layout=compact" alt="nkaryoli" witdh="auto"/>
+</p>
 
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=nkaryoli&theme=light&background=ffffff" alt="nkaryoli" height="145"/>
