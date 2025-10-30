@@ -62,7 +62,7 @@ Here are some of the technologies and tools I work with:
 ---
 ---
 
-## Let’s Connect!
+## Let’s Connect!!
 
 I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me:
 
