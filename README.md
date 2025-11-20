@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Karyoli.
 
-## Junior Web Developer Full-Stack.
+## Junior Web Developer Full-Stack
 
 I’m deeply passionate about developing new projects and solving problems through code. I’m always eager to learn from others and apply my knowledge to create meaningful and efficient solutions.
 
