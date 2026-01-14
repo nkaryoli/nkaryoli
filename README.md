@@ -25,6 +25,13 @@ I’m deeply passionate about developing new projects and solving problems throu
 
 Here are some of the technologies and tools I work with:
 
+### Programing Languages: &nbsp; 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=popout&logo=javascript&logoColor=black) &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=popout&logo=typescript&logoColor=white) &nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=popout&logo=java&logoColor=white) &nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=popout&logo=c&logoColor=black) &nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=popout&logo=c%2B%2B&logoColor=white)
+
 ### Front-end: &nbsp; 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=popout&logo=html5&logoColor=white) &nbsp; 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=popout&logo=css3&logoColor=white) &nbsp;
@@ -53,12 +60,6 @@ Here are some of the technologies and tools I work with:
 ![Figma](https://img.shields.io/badge/Figma-000000?style=popout&logo=figma&logoColor=white) &nbsp;
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26A1?style=popout&logo=adobe-xd&logoColor=white) &nbsp;
 
-### Programing Languages: &nbsp; 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=popout&logo=javascript&logoColor=black) &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=popout&logo=typescript&logoColor=white) &nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=popout&logo=java&logoColor=white) &nbsp;
-![C](https://img.shields.io/badge/C-A8B9CC?style=popout&logo=c&logoColor=black) &nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=popout&logo=c%2B%2B&logoColor=white)
 ---
 ---
 
