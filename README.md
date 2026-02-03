@@ -30,7 +30,8 @@ Here are some of the technologies and tools I work with:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=popout&logo=typescript&logoColor=white) &nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=popout&logo=java&logoColor=white) &nbsp;
 ![C](https://img.shields.io/badge/C-A8B9CC?style=popout&logo=c&logoColor=black) &nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=popout&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=popout&logo=c%2B%2B&logoColor=white) &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=popout&logo=python&logoColor=white)
 
 ### Front-end: &nbsp; 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=popout&logo=html5&logoColor=white) &nbsp; 
