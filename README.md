@@ -70,6 +70,7 @@ I’m always open to collaborating on exciting projects or discussing new ideas.
 
 - [GitHub](https://github.com/nkaryoli)
 - [Email](mailto:karyoli@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/karyoli-nieves/)
 
 ---
 
