@@ -51,6 +51,7 @@ Here are some of the technologies and tools I work with:
 ### Databases: &nbsp; 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=popoute&logo=mysql&logoColor=white) &nbsp; 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=popout&logo=mongodb&logoColor=white) &nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=popout&logo=oracle&logoColor=white)
 
 ### Tools: &nbsp; 
 ![Git](https://img.shields.io/badge/Git-F05032?style=popout&logo=git&logoColor=white) &nbsp; 
