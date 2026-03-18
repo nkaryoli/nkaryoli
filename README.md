@@ -4,7 +4,7 @@
 
 I’m deeply passionate about developing new projects and solving problems through code. I’m always eager to learn from others and apply my knowledge to create meaningful and efficient solutions.
 
-- 👀 I’m interested in **Front-end**, **UX/UI Design**, **accessibility**, **Backend**, **Databases**, and more.
+- 👀 I’m interested in **Front-end**, **UX/UI Design**, **accessibility**, **Backend**, **Databases**, and much more.
 - 🌱 I’m currently studying at Monlau Formación Profesional.
 - ✨ I’m looking to collaborate on projects that challenge me to grow and push me to new heights.
 
